@@ -1,0 +1,12 @@
+C:\FIX\LearnMicro\Micro.MessageBus\bin\Debug\net6.0\Micro.MessageBus.deps.json
+C:\FIX\LearnMicro\Micro.MessageBus\bin\Debug\net6.0\Micro.MessageBus.dll
+C:\FIX\LearnMicro\Micro.MessageBus\bin\Debug\net6.0\Micro.MessageBus.pdb
+C:\FIX\LearnMicro\Micro.MessageBus\obj\Debug\net6.0\Micro.MessageBus.csproj.AssemblyReference.cache
+C:\FIX\LearnMicro\Micro.MessageBus\obj\Debug\net6.0\Micro.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIX\LearnMicro\Micro.MessageBus\obj\Debug\net6.0\Micro.MessageBus.AssemblyInfoInputs.cache
+C:\FIX\LearnMicro\Micro.MessageBus\obj\Debug\net6.0\Micro.MessageBus.AssemblyInfo.cs
+C:\FIX\LearnMicro\Micro.MessageBus\obj\Debug\net6.0\Micro.MessageBus.csproj.CoreCompileInputs.cache
+C:\FIX\LearnMicro\Micro.MessageBus\obj\Debug\net6.0\Micro.MessageBus.dll
+C:\FIX\LearnMicro\Micro.MessageBus\obj\Debug\net6.0\refint\Micro.MessageBus.dll
+C:\FIX\LearnMicro\Micro.MessageBus\obj\Debug\net6.0\Micro.MessageBus.pdb
+C:\FIX\LearnMicro\Micro.MessageBus\obj\Debug\net6.0\ref\Micro.MessageBus.dll

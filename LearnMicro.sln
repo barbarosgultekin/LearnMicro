@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Micro.ProductAPI", "Micro.ProductAPI\Micro.ProductAPI.csproj", "{E27CEE0C-6238-4F20-AB04-E42AEF5B87FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{9B2CF9F5-11A0-4FD5-AFEC-65D12BB9D0D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{2EA82A68-15FD-4E21-A8F2-C17923CC025E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{D6452117-587B-40A5-8415-80DEF3D62632}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EventBus", "EventBus", "{10FD5251-537B-42DE-AFC1-2E6EA000A799}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GatewaySolution", "GatewaySolution\GatewaySolution.csproj", "{D57307FE-78B4-4088-8C20-0BF8B9804DD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Micro.MessageBus", "Micro.MessageBus\Micro.MessageBus.csproj", "{E8F6010F-F14B-4A4B-B208-EFBC7336E548}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Micro.Web", "Micro.Web\Micro.Web.csproj", "{0FFB02C4-4B4D-47A7-B4F1-7625F8F75F5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro.AuthAPI", "Micro.AuthAPI\Micro.AuthAPI.csproj", "{6890DF3D-4C0A-4A21-B24B-A5B8796AE0C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E27CEE0C-6238-4F20-AB04-E42AEF5B87FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27CEE0C-6238-4F20-AB04-E42AEF5B87FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27CEE0C-6238-4F20-AB04-E42AEF5B87FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27CEE0C-6238-4F20-AB04-E42AEF5B87FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57307FE-78B4-4088-8C20-0BF8B9804DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57307FE-78B4-4088-8C20-0BF8B9804DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57307FE-78B4-4088-8C20-0BF8B9804DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57307FE-78B4-4088-8C20-0BF8B9804DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8F6010F-F14B-4A4B-B208-EFBC7336E548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F6010F-F14B-4A4B-B208-EFBC7336E548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F6010F-F14B-4A4B-B208-EFBC7336E548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F6010F-F14B-4A4B-B208-EFBC7336E548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFB02C4-4B4D-47A7-B4F1-7625F8F75F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFB02C4-4B4D-47A7-B4F1-7625F8F75F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFB02C4-4B4D-47A7-B4F1-7625F8F75F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFB02C4-4B4D-47A7-B4F1-7625F8F75F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6890DF3D-4C0A-4A21-B24B-A5B8796AE0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6890DF3D-4C0A-4A21-B24B-A5B8796AE0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6890DF3D-4C0A-4A21-B24B-A5B8796AE0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6890DF3D-4C0A-4A21-B24B-A5B8796AE0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E27CEE0C-6238-4F20-AB04-E42AEF5B87FA} = {9B2CF9F5-11A0-4FD5-AFEC-65D12BB9D0D9}
+		{D57307FE-78B4-4088-8C20-0BF8B9804DD3} = {2EA82A68-15FD-4E21-A8F2-C17923CC025E}
+		{E8F6010F-F14B-4A4B-B208-EFBC7336E548} = {10FD5251-537B-42DE-AFC1-2E6EA000A799}
+		{0FFB02C4-4B4D-47A7-B4F1-7625F8F75F5D} = {D6452117-587B-40A5-8415-80DEF3D62632}
+		{6890DF3D-4C0A-4A21-B24B-A5B8796AE0C6} = {9B2CF9F5-11A0-4FD5-AFEC-65D12BB9D0D9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {983704DF-FC71-4507-8B97-BB87015C010D}
+	EndGlobalSection
+EndGlobal
